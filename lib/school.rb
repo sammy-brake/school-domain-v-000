@@ -22,7 +22,6 @@ def add_student(student_name, grade)
 
 
 
-  end 
 end 
 
 def grade(grade)
